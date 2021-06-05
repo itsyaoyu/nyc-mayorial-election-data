@@ -1,0 +1,46 @@
+date,pollster,sample_n,name,first_choice,second_choice,third_choice,link
+2021-04-15,Ipsos,1000,Eric Adams,13,10,,https://www.ny1.com/content/dam/News/static/nyc/pdfs/Spectrum_News_NY1_Poll_Apr_18_2021.pdf
+2021-04-15,Ipsos,1000,Shaun Donovan,6,7,,https://www.ny1.com/content/dam/News/static/nyc/pdfs/Spectrum_News_NY1_Poll_Apr_18_2021.pdf
+2021-04-15,Ipsos,1000,Kathryn Garcia,4,7,,https://www.ny1.com/content/dam/News/static/nyc/pdfs/Spectrum_News_NY1_Poll_Apr_18_2021.pdf
+2021-04-15,Ipsos,1000,Raymond J. McGuire,6,4,,https://www.ny1.com/content/dam/News/static/nyc/pdfs/Spectrum_News_NY1_Poll_Apr_18_2021.pdf
+2021-04-15,Ipsos,1000,Dianne Morales,5,6,,https://www.ny1.com/content/dam/News/static/nyc/pdfs/Spectrum_News_NY1_Poll_Apr_18_2021.pdf
+2021-04-15,Ipsos,1000,Scott M. Stringer,11,14,,https://www.ny1.com/content/dam/News/static/nyc/pdfs/Spectrum_News_NY1_Poll_Apr_18_2021.pdf
+2021-04-15,Ipsos,1000,Maya Wiley,7,9,,https://www.ny1.com/content/dam/News/static/nyc/pdfs/Spectrum_News_NY1_Poll_Apr_18_2021.pdf
+2021-04-15,Ipsos,1000,Andrew Yang,22,13,,https://www.ny1.com/content/dam/News/static/nyc/pdfs/Spectrum_News_NY1_Poll_Apr_18_2021.pdf
+2021-04-15,Ipsos,1000,Don't Know/No One,26,29,,https://www.ny1.com/content/dam/News/static/nyc/pdfs/Spectrum_News_NY1_Poll_Apr_18_2021.pdf
+2021-04-21,Benenson,1558,Eric Adams,17,10,8,https://www.politico.com/f/?id=00000179-1ff1-d356-affd-3ffddc4e0000
+2021-04-21,Benenson,1558,Shaun Donovan,7,9,8,https://www.politico.com/f/?id=00000179-1ff1-d356-affd-3ffddc4e0001
+2021-04-21,Benenson,1558,Kathryn Garcia,5,6,6,https://www.politico.com/f/?id=00000179-1ff1-d356-affd-3ffddc4e0002
+2021-04-21,Benenson,1558,Raymond J. McGuire,8,7,5,https://www.politico.com/f/?id=00000179-1ff1-d356-affd-3ffddc4e0003
+2021-04-21,Benenson,1558,Dianne Morales,7,6,5,https://www.politico.com/f/?id=00000179-1ff1-d356-affd-3ffddc4e0004
+2021-04-21,Benenson,1558,Scott M. Stringer,11,14,8,https://www.politico.com/f/?id=00000179-1ff1-d356-affd-3ffddc4e0005
+2021-04-21,Benenson,1558,Maya Wiley,8,9,9,https://www.politico.com/f/?id=00000179-1ff1-d356-affd-3ffddc4e0006
+2021-04-21,Benenson,1558,Andrew Yang,22,11,10,https://www.politico.com/f/?id=00000179-1ff1-d356-affd-3ffddc4e0007
+2021-04-21,Benenson,1558,Don't Know/No One,14,25,38,https://www.politico.com/f/?id=00000179-1ff1-d356-affd-3ffddc4e0008
+2021-05-13,Emerson,631,Eric Adams,17.5,10.9,5.6,https://emersonpolling.reportablenews.com/pr/nyc-mayoral-poll-adams-new-leader-in-nyc-mayor-race-as-field-remains-open
+2021-05-13,Emerson,631,Shaun Donovan,5,6.4,5.8,https://emersonpolling.reportablenews.com/pr/nyc-mayoral-poll-adams-new-leader-in-nyc-mayor-race-as-field-remains-open
+2021-05-13,Emerson,631,Kathryn Garcia,7.8,9.3,18.8,https://emersonpolling.reportablenews.com/pr/nyc-mayoral-poll-adams-new-leader-in-nyc-mayor-race-as-field-remains-open
+2021-05-13,Emerson,631,Raymond J. McGuire,4,11.9,8.4,https://emersonpolling.reportablenews.com/pr/nyc-mayoral-poll-adams-new-leader-in-nyc-mayor-race-as-field-remains-open
+2021-05-13,Emerson,631,Dianne Morales,5.5,3.9,4.6,https://emersonpolling.reportablenews.com/pr/nyc-mayoral-poll-adams-new-leader-in-nyc-mayor-race-as-field-remains-open
+2021-05-13,Emerson,631,Scott M. Stringer,15.1,8.9,7.9,https://emersonpolling.reportablenews.com/pr/nyc-mayoral-poll-adams-new-leader-in-nyc-mayor-race-as-field-remains-open
+2021-05-13,Emerson,631,Maya Wiley,3.8,15.2,12.8,https://emersonpolling.reportablenews.com/pr/nyc-mayoral-poll-adams-new-leader-in-nyc-mayor-race-as-field-remains-open
+2021-05-13,Emerson,631,Andrew Yang,15.4,9.6,10.8,https://emersonpolling.reportablenews.com/pr/nyc-mayoral-poll-adams-new-leader-in-nyc-mayor-race-as-field-remains-open
+2021-05-13,Emerson,631,Don't Know/No One,22.7,18.1,21,https://emersonpolling.reportablenews.com/pr/nyc-mayoral-poll-adams-new-leader-in-nyc-mayor-race-as-field-remains-open
+2021-05-17,Public Opinion Strategies,500,Eric Adams,18,12,5,https://media4.manhattan-institute.org/sites/default/files/Manhattan-Institute-May-2021-nyc-democratic-primary-study-crosstabs.pdf
+2021-05-17,Public Opinion Strategies,500,Shaun Donovan,4,7,7,https://media4.manhattan-institute.org/sites/default/files/Manhattan-Institute-May-2021-nyc-democratic-primary-study-crosstabs.pdf
+2021-05-17,Public Opinion Strategies,500,Kathryn Garcia,11,10,8,https://media4.manhattan-institute.org/sites/default/files/Manhattan-Institute-May-2021-nyc-democratic-primary-study-crosstabs.pdf
+2021-05-17,Public Opinion Strategies,500,Raymond J. McGuire,6,8,8,https://media4.manhattan-institute.org/sites/default/files/Manhattan-Institute-May-2021-nyc-democratic-primary-study-crosstabs.pdf
+2021-05-17,Public Opinion Strategies,500,Dianne Morales,6,4,6,https://media4.manhattan-institute.org/sites/default/files/Manhattan-Institute-May-2021-nyc-democratic-primary-study-crosstabs.pdf
+2021-05-17,Public Opinion Strategies,500,Scott M. Stringer,8,7,9,https://media4.manhattan-institute.org/sites/default/files/Manhattan-Institute-May-2021-nyc-democratic-primary-study-crosstabs.pdf
+2021-05-17,Public Opinion Strategies,500,Maya Wiley,10,11,7,https://media4.manhattan-institute.org/sites/default/files/Manhattan-Institute-May-2021-nyc-democratic-primary-study-crosstabs.pdf
+2021-05-17,Public Opinion Strategies,500,Andrew Yang,19,11,7,https://media4.manhattan-institute.org/sites/default/files/Manhattan-Institute-May-2021-nyc-democratic-primary-study-crosstabs.pdf
+2021-05-17,Public Opinion Strategies,500,Don't Know/No One,14,11,10,https://media4.manhattan-institute.org/sites/default/files/Manhattan-Institute-May-2021-nyc-democratic-primary-study-crosstabs.pdf
+2021-05-24,Emerson,800,Eric Adams,20.1,10.6,2.8,https://emersonpolling.reportablenews.com/pr/garcia-surges-to-lead-in-nyc-mayor-race-while-adams-holds-his-base
+2021-05-24,Emerson,800,Shaun Donovan,5,4.2,12,https://emersonpolling.reportablenews.com/pr/garcia-surges-to-lead-in-nyc-mayor-race-while-adams-holds-his-base
+2021-05-24,Emerson,800,Kathryn Garcia,21.1,13.9,12,https://emersonpolling.reportablenews.com/pr/garcia-surges-to-lead-in-nyc-mayor-race-while-adams-holds-his-base
+2021-05-24,Emerson,800,Raymond J. McGuire,1.9,5.1,10.8,https://emersonpolling.reportablenews.com/pr/garcia-surges-to-lead-in-nyc-mayor-race-while-adams-holds-his-base
+2021-05-24,Emerson,800,Dianne Morales,6.9,5.7,5.2,https://emersonpolling.reportablenews.com/pr/garcia-surges-to-lead-in-nyc-mayor-race-while-adams-holds-his-base
+2021-05-24,Emerson,800,Scott M. Stringer,9.5,16.8,14.2,https://emersonpolling.reportablenews.com/pr/garcia-surges-to-lead-in-nyc-mayor-race-while-adams-holds-his-base
+2021-05-24,Emerson,800,Maya Wiley,8.6,14.2,12.4,https://emersonpolling.reportablenews.com/pr/garcia-surges-to-lead-in-nyc-mayor-race-while-adams-holds-his-base
+2021-05-24,Emerson,800,Andrew Yang,15.6,9.3,9.4,https://emersonpolling.reportablenews.com/pr/garcia-surges-to-lead-in-nyc-mayor-race-while-adams-holds-his-base
+2021-05-24,Emerson,800,Don't Know/No One,9.2,14.6,14.4,https://emersonpolling.reportablenews.com/pr/garcia-surges-to-lead-in-nyc-mayor-race-while-adams-holds-his-base
