@@ -3,14 +3,14 @@ library(tidyverse)
 library(janitor)
 
 # Data
-candidates <- read_csv("raw-data/candidates.csv",
+candidates <- read_csv("data/candidates.csv",
                        col_types = cols(
                          recipname = col_character(),
                          name = col_character()
                        )) %>% 
   mutate(name = as_factor(name))
 
-data <- read_csv("raw-data/individual_contributions.csv",
+data <- read_csv("data/individual_contributions.csv",
                  col_types = cols(
                    .default = col_character(),
                    ELECTION = col_double(),
