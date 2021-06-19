@@ -9,5 +9,5 @@ Repo Guide
 ------
 + /code : code used for the analysis
 + /data : data from the [New York City Campaign Finance Board](https://www.nyccfb.info/follow-the-money) as of May 31, 2021
-+ /data : polling data as of May 31, 2021
++ /data : polling data as of June 8, 2021
 + /graphics : graphics made from the data
